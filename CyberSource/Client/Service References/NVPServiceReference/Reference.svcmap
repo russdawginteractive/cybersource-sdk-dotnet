@@ -18,11 +18,11 @@
     <ServiceContractMappings />
   </ClientOptions>
   <MetadataSources>
-    <MetadataSource Address="https://ics2wstest.ic3.com/commerce/1.x/transactionProcessor/CyberSourceTransaction_NVP_1.109.wsdl" Protocol="http" SourceId="1" />
+    <MetadataSource Address="https://ics2wstest.ic3.com/commerce/1.x/transactionProcessor/CyberSourceTransaction_NVP_1.151.wsdl" Protocol="http" SourceId="1" />
   </MetadataSources>
   <Metadata>
-    <MetadataFile FileName="CyberSourceTransaction_1.xsd" MetadataType="Schema" ID="d2e494a5-248e-4048-a54f-9c20c7058201" SourceId="1" SourceUrl="https://ics2wstest.ic3.com/commerce/1.x/transactionProcessor/CyberSourceTransaction_1.109.xsd" />
-    <MetadataFile FileName="NVPCyberSourceTransactionWS.wsdl" MetadataType="Wsdl" ID="9608efca-7677-4dfe-91d0-d35ee43f38a2" SourceId="1" SourceUrl="https://ics2wstest.ic3.com/commerce/1.x/transactionProcessor/CyberSourceTransaction_NVP_1.109.wsdl" />
+    <MetadataFile FileName="NVPCyberSourceTransactionWS1.wsdl" MetadataType="Wsdl" ID="17345f75-11ed-4479-8963-e0d240727bf5" SourceId="1" SourceUrl="https://ics2wstest.ic3.com/commerce/1.x/transactionProcessor/CyberSourceTransaction_NVP_1.151.wsdl" />
+    <MetadataFile FileName="CyberSourceTransaction_11.xsd" MetadataType="Schema" ID="8b8f6e33-522c-45cb-8bda-abfbf0f0173c" SourceId="1" SourceUrl="https://ics2wstest.ic3.com/commerce/1.x/transactionProcessor/CyberSourceTransaction_1.151.xsd" />
   </Metadata>
   <Extensions>
     <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
